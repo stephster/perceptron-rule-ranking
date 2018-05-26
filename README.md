@@ -1,6 +1,9 @@
 # Image for "Improving NN Interpretability via Rule Extraction"
 
-List of supporting images:
+##Supporting images, "2D embeddings":
 
-1. [2D image embedding - owl classification rule - red heatmap](./owl_scatter_plot_features.jpg)
-2. [2D image embedding - owl classification rule - feature mask](./owl_scatter_plot_masked.jpg)
+* [Owl classification rule - red heatmap](./owl_scatter_plot_features.jpg)
+* [Owl classification rule - feature mask](./owl_scatter_plot_masked.jpg)
+
+##Supporting images, "Accuracy comparison between classes":
+* [Random Forest, Perceptron, TOp5, Top10 accuracy](./classes_all_accuracy_histogram.pdf)
