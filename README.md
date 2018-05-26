@@ -1,4 +1,4 @@
-# Improving NN Interpretability via Rule Extraction
+# Image for "Improving NN Interpretability via Rule Extraction"
 
 List of supporting images:
 
