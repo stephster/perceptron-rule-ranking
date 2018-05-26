@@ -1,4 +1,4 @@
-# Image for "Improving NN Interpretability via Rule Extraction"
+# Images for "Improving NN Interpretability via Rule Extraction"
 
 ## Supporting images, "2D embeddings":
 
