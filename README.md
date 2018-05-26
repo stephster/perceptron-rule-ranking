@@ -6,4 +6,4 @@
 * [Owl classification rule - feature mask](./owl_scatter_plot_masked.jpg)
 
 ##Supporting images, "Accuracy comparison between classes":
-* [Random Forest, Perceptron, TOp5, Top10 accuracy](./classes_all_accuracy_histogram.pdf)
+* [Random Forest, Perceptron, Top5, Top10 accuracy](./classes_all_accuracy_histogram.pdf). The dataset has been selected so that VGG-16 fully connected layers have an accuracy = 100%.
